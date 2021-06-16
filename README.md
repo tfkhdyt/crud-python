@@ -28,6 +28,8 @@ pip install -r requirements.txt
 cd crud-python
 python3 mahasiswa.py
 ```
+Hapus file `mahasiswa.db` pada folder `db` untuk mengisi tabel dari awal.
+
 ## Support
 Klik tombol di bawah untuk mendukung saya lewat donasi
 

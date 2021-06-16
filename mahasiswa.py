@@ -2,6 +2,9 @@
 import sqlite3, os
 from prettytable import PrettyTable, from_db_cursor
 
+# hapus layar
+os.system("clear")
+
 # koneksi ke database
 conn = sqlite3.connect('db/mahasiswa.db')
 
