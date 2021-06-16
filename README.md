@@ -1,5 +1,5 @@
 # CRUD (Python & SQLite)
-[![UVk-Plc7-ZTl-AAAAABJRU5-Erk-Jggg-picsay.jpg](https://i.postimg.cc/yxBRSX6Y/UVk-Plc7-ZTl-AAAAABJRU5-Erk-Jggg-picsay.jpg)](https://postimg.cc/TL71zbWZ)<br>
+[![thumbnail-crud-python-wide.jpg](https://i.postimg.cc/SQ7Ryp3k/thumbnail-crud-python-wide.jpg)](https://postimg.cc/t7Jp589M)<br>
 Ini adalah program CRUD (Create Read Update Delete) yang dibuat menggunakan Python dan SQLite 
 <p align=center>
   <a href="Https://facebook.com/tfkhdyt142"><img height="30" src="https://www.pinclipart.com/picdir/big/2-21918_download-transparent-background-facebook-logo-clipart-facebook-logo.png"></a>&nbsp;
