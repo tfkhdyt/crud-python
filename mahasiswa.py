@@ -89,7 +89,7 @@ class Tabel:
                 prodi = input("Masukkan prodi  : ") or "-"
                 alamat = input("Masukkan alamat : ") or "-"
                 try:
-                    self.insertData(nim, nama, prodi, alamat)
+                    self.insertData(nim, nama.title(), prodi.title(), alamat.title())
                     os.system("clear")
                     print("Input data berhasil!")
                 except:
@@ -130,7 +130,7 @@ class Tabel:
                         prodi = input(f"Masukkan prodi ({prodi}) : ") or prodi
                         alamat = input(f"Masukkan alamat ({alamat}) : ") or alamat
                         try:
-                            self.updateData(nim, nama, prodi, alamat)
+                            self.updateData(nim, nama.title(), prodi.title(), alamat.title())
                             os.system("clear")
                             print("Update data berhasil!")
                         except:
